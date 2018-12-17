@@ -1,7 +1,6 @@
 import random
 import string
 import sys
-import random
 
 def genKey(num):
     nums = []
